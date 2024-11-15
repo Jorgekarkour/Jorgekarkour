@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain technologies 
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on interesting start-ups projects.
-- 📫 How to reach me jorge.karkour.work@gmail.com
+- 📫 How to reach me jorgekarkour15@gmail.com
 
 <!---
 Jorgekarkour/Jorgekarkour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
